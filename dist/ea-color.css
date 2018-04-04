@@ -1,0 +1,534 @@
+.ea-bg-red,
+.ea-bg-hover-red:hover {
+  background-color: #F44336 !important;
+  color: #FFFFFF; }
+
+.ea-text-red,
+.ea-text-hover-red:hover {
+  color: #F44336 !important; }
+
+.ea-border-red,
+.ea-border-hover-red:hover {
+  border-color: #F44336 !important; }
+
+.ea-bg-pink,
+.ea-bg-hover-pink:hover {
+  background-color: #E91E63 !important;
+  color: #FFFFFF; }
+
+.ea-text-pink,
+.ea-text-hover-pink:hover {
+  color: #E91E63 !important; }
+
+.ea-border-pink,
+.ea-border-hover-pink:hover {
+  border-color: #E91E63 !important; }
+
+.ea-bg-purple,
+.ea-bg-hover-purple:hover {
+  background-color: #9C27B0 !important;
+  color: #FFFFFF; }
+
+.ea-text-purple,
+.ea-text-hover-purple:hover {
+  color: #9C27B0 !important; }
+
+.ea-border-purple,
+.ea-border-hover-purple:hover {
+  border-color: #9C27B0 !important; }
+
+.ea-bg-deep-purple,
+.ea-bg-hover-deep-purple:hover {
+  background-color: #673AB7 !important;
+  color: #FFFFFF; }
+
+.ea-text-deep-purple,
+.ea-text-hover-deep-purple:hover {
+  color: #673AB7 !important; }
+
+.ea-border-deep-purple,
+.ea-border-hover-deep-purple:hover {
+  border-color: #673AB7 !important; }
+
+.ea-bg-indigo,
+.ea-bg-hover-indigo:hover {
+  background-color: #3F51B5 !important;
+  color: #FFFFFF; }
+
+.ea-text-indigo,
+.ea-text-hover-indigo:hover {
+  color: #3F51B5 !important; }
+
+.ea-border-indigo,
+.ea-border-hover-indigo:hover {
+  border-color: #3F51B5 !important; }
+
+.ea-bg-blue,
+.ea-bg-hover-blue:hover {
+  background-color: #2196F3 !important;
+  color: #000000; }
+
+.ea-text-blue,
+.ea-text-hover-blue:hover {
+  color: #2196F3 !important; }
+
+.ea-border-blue,
+.ea-border-hover-blue:hover {
+  border-color: #2196F3 !important; }
+
+.ea-bg-light-blue,
+.ea-bg-hover-light-blue:hover {
+  background-color: #03A9F4 !important;
+  color: #000000; }
+
+.ea-text-light-blue,
+.ea-text-hover-light-blue:hover {
+  color: #03A9F4 !important; }
+
+.ea-border-light-blue,
+.ea-border-hover-light-blue:hover {
+  border-color: #03A9F4 !important; }
+
+.ea-bg-cyan,
+.ea-bg-hover-cyan:hover {
+  background-color: #00BCD4 !important;
+  color: #000000; }
+
+.ea-text-cyan,
+.ea-text-hover-cyan:hover {
+  color: #00BCD4 !important; }
+
+.ea-border-cyan,
+.ea-border-hover-cyan:hover {
+  border-color: #00BCD4 !important; }
+
+.ea-bg-teal,
+.ea-bg-hover-teal:hover {
+  background-color: #009688 !important;
+  color: #FFFFFF; }
+
+.ea-text-teal,
+.ea-text-hover-teal:hover {
+  color: #009688 !important; }
+
+.ea-border-teal,
+.ea-border-hover-teal:hover {
+  border-color: #009688 !important; }
+
+.ea-bg-green,
+.ea-bg-hover-green:hover {
+  background-color: #4CAF50 !important;
+  color: #000000; }
+
+.ea-text-green,
+.ea-text-hover-green:hover {
+  color: #4CAF50 !important; }
+
+.ea-border-green,
+.ea-border-hover-green:hover {
+  border-color: #4CAF50 !important; }
+
+.ea-bg-light-green,
+.ea-bg-hover-light-green:hover {
+  background-color: #8BC34A !important;
+  color: #000000; }
+
+.ea-text-light-green,
+.ea-text-hover-light-green:hover {
+  color: #8BC34A !important; }
+
+.ea-border-light-green,
+.ea-border-hover-light-green:hover {
+  border-color: #8BC34A !important; }
+
+.ea-bg-lime,
+.ea-bg-hover-lime:hover {
+  background-color: #CDDC39 !important;
+  color: #000000; }
+
+.ea-text-lime,
+.ea-text-hover-lime:hover {
+  color: #CDDC39 !important; }
+
+.ea-border-lime,
+.ea-border-hover-lime:hover {
+  border-color: #CDDC39 !important; }
+
+.ea-bg-yellow,
+.ea-bg-hover-yellow:hover {
+  background-color: #FFEB3B !important;
+  color: #000000; }
+
+.ea-text-yellow,
+.ea-text-hover-yellow:hover {
+  color: #FFEB3B !important; }
+
+.ea-border-yellow,
+.ea-border-hover-yellow:hover {
+  border-color: #FFEB3B !important; }
+
+.ea-bg-amber,
+.ea-bg-hover-amber:hover {
+  background-color: #FFC107 !important;
+  color: #000000; }
+
+.ea-text-amber,
+.ea-text-hover-amber:hover {
+  color: #FFC107 !important; }
+
+.ea-border-amber,
+.ea-border-hover-amber:hover {
+  border-color: #FFC107 !important; }
+
+.ea-bg-orange,
+.ea-bg-hover-orange:hover {
+  background-color: #FF9800 !important;
+  color: #000000; }
+
+.ea-text-orange,
+.ea-text-hover-orange:hover {
+  color: #FF9800 !important; }
+
+.ea-border-orange,
+.ea-border-hover-orange:hover {
+  border-color: #FF9800 !important; }
+
+.ea-bg-deep-orange,
+.ea-bg-hover-deep-orange:hover {
+  background-color: #FF5722 !important;
+  color: #000000; }
+
+.ea-text-deep-orange,
+.ea-text-hover-deep-orange:hover {
+  color: #FF5722 !important; }
+
+.ea-border-deep-orange,
+.ea-border-hover-deep-orange:hover {
+  border-color: #FF5722 !important; }
+
+.ea-bg-brown,
+.ea-bg-hover-brown:hover {
+  background-color: #795548 !important;
+  color: #FFFFFF; }
+
+.ea-text-brown,
+.ea-text-hover-brown:hover {
+  color: #795548 !important; }
+
+.ea-border-brown,
+.ea-border-hover-brown:hover {
+  border-color: #795548 !important; }
+
+.ea-bg-grey,
+.ea-bg-hover-grey:hover {
+  background-color: #9E9E9E !important;
+  color: #000000; }
+
+.ea-text-grey,
+.ea-text-hover-grey:hover {
+  color: #9E9E9E !important; }
+
+.ea-border-grey,
+.ea-border-hover-grey:hover {
+  border-color: #9E9E9E !important; }
+
+.ea-bg-grey-50,
+.ea-bg-hover-grey-50:hover {
+  background-color: #FAFAFA !important;
+  color: #000000; }
+
+.ea-text-grey-50,
+.ea-text-hover-grey-50:hover {
+  color: #FAFAFA !important; }
+
+.ea-border-grey-50,
+.ea-border-hover-grey-50:hover {
+  border-color: #FAFAFA !important; }
+
+.ea-bg-grey-100,
+.ea-bg-hover-grey-100:hover {
+  background-color: #F5F5F5 !important;
+  color: #000000; }
+
+.ea-text-grey-100,
+.ea-text-hover-grey-100:hover {
+  color: #F5F5F5 !important; }
+
+.ea-border-grey-100,
+.ea-border-hover-grey-100:hover {
+  border-color: #F5F5F5 !important; }
+
+.ea-bg-grey-200,
+.ea-bg-hover-grey-200:hover {
+  background-color: #EEEEEE !important;
+  color: #000000; }
+
+.ea-text-grey-200,
+.ea-text-hover-grey-200:hover {
+  color: #EEEEEE !important; }
+
+.ea-border-grey-200,
+.ea-border-hover-grey-200:hover {
+  border-color: #EEEEEE !important; }
+
+.ea-bg-grey-300,
+.ea-bg-hover-grey-300:hover {
+  background-color: #E0E0E0 !important;
+  color: #000000; }
+
+.ea-text-grey-300,
+.ea-text-hover-grey-300:hover {
+  color: #E0E0E0 !important; }
+
+.ea-border-grey-300,
+.ea-border-hover-grey-300:hover {
+  border-color: #E0E0E0 !important; }
+
+.ea-bg-grey-400,
+.ea-bg-hover-grey-400:hover {
+  background-color: #BDBDBD !important;
+  color: #000000; }
+
+.ea-text-grey-400,
+.ea-text-hover-grey-400:hover {
+  color: #BDBDBD !important; }
+
+.ea-border-grey-400,
+.ea-border-hover-grey-400:hover {
+  border-color: #BDBDBD !important; }
+
+.ea-bg-grey-500,
+.ea-bg-hover-grey-500:hover {
+  background-color: #9E9E9E !important;
+  color: #000000; }
+
+.ea-text-grey-500,
+.ea-text-hover-grey-500:hover {
+  color: #9E9E9E !important; }
+
+.ea-border-grey-500,
+.ea-border-hover-grey-500:hover {
+  border-color: #9E9E9E !important; }
+
+.ea-bg-grey-600,
+.ea-bg-hover-grey-600:hover {
+  background-color: #757575 !important;
+  color: #FFFFFF; }
+
+.ea-text-grey-600,
+.ea-text-hover-grey-600:hover {
+  color: #757575 !important; }
+
+.ea-border-grey-600,
+.ea-border-hover-grey-600:hover {
+  border-color: #757575 !important; }
+
+.ea-bg-grey-700,
+.ea-bg-hover-grey-700:hover {
+  background-color: #616161 !important;
+  color: #FFFFFF; }
+
+.ea-text-grey-700,
+.ea-text-hover-grey-700:hover {
+  color: #616161 !important; }
+
+.ea-border-grey-700,
+.ea-border-hover-grey-700:hover {
+  border-color: #616161 !important; }
+
+.ea-bg-grey-800,
+.ea-bg-hover-grey-800:hover {
+  background-color: #424242 !important;
+  color: #FFFFFF; }
+
+.ea-text-grey-800,
+.ea-text-hover-grey-800:hover {
+  color: #424242 !important; }
+
+.ea-border-grey-800,
+.ea-border-hover-grey-800:hover {
+  border-color: #424242 !important; }
+
+.ea-bg-grey-900,
+.ea-bg-hover-grey-900:hover {
+  background-color: #212121 !important;
+  color: #FFFFFF; }
+
+.ea-text-grey-900,
+.ea-text-hover-grey-900:hover {
+  color: #212121 !important; }
+
+.ea-border-grey-900,
+.ea-border-hover-grey-900:hover {
+  border-color: #212121 !important; }
+
+.ea-bg-blue-grey,
+.ea-bg-hover-blue-grey:hover {
+  background-color: #607D8B !important;
+  color: #FFFFFF; }
+
+.ea-text-blue-grey,
+.ea-text-hover-blue-grey:hover {
+  color: #607D8B !important; }
+
+.ea-border-blue-grey,
+.ea-border-hover-blue-grey:hover {
+  border-color: #607D8B !important; }
+
+.ea-bg-blue-grey-50,
+.ea-bg-hover-blue-grey-50:hover {
+  background-color: #ECEFF1 !important;
+  color: #000000; }
+
+.ea-text-blue-grey-50,
+.ea-text-hover-blue-grey-50:hover {
+  color: #ECEFF1 !important; }
+
+.ea-border-blue-grey-50,
+.ea-border-hover-blue-grey-50:hover {
+  border-color: #ECEFF1 !important; }
+
+.ea-bg-blue-grey-100,
+.ea-bg-hover-blue-grey-100:hover {
+  background-color: #CFD8DC !important;
+  color: #000000; }
+
+.ea-text-blue-grey-100,
+.ea-text-hover-blue-grey-100:hover {
+  color: #CFD8DC !important; }
+
+.ea-border-blue-grey-100,
+.ea-border-hover-blue-grey-100:hover {
+  border-color: #CFD8DC !important; }
+
+.ea-bg-blue-grey-200,
+.ea-bg-hover-blue-grey-200:hover {
+  background-color: #B0BEC5 !important;
+  color: #000000; }
+
+.ea-text-blue-grey-200,
+.ea-text-hover-blue-grey-200:hover {
+  color: #B0BEC5 !important; }
+
+.ea-border-blue-grey-200,
+.ea-border-hover-blue-grey-200:hover {
+  border-color: #B0BEC5 !important; }
+
+.ea-bg-blue-grey-300,
+.ea-bg-hover-blue-grey-300:hover {
+  background-color: #90A4AE !important;
+  color: #000000; }
+
+.ea-text-blue-grey-300,
+.ea-text-hover-blue-grey-300:hover {
+  color: #90A4AE !important; }
+
+.ea-border-blue-grey-300,
+.ea-border-hover-blue-grey-300:hover {
+  border-color: #90A4AE !important; }
+
+.ea-bg-blue-grey-400,
+.ea-bg-hover-blue-grey-400:hover {
+  background-color: #78909C !important;
+  color: #FFFFFF; }
+
+.ea-text-blue-grey-400,
+.ea-text-hover-blue-grey-400:hover {
+  color: #78909C !important; }
+
+.ea-border-blue-grey-400,
+.ea-border-hover-blue-grey-400:hover {
+  border-color: #78909C !important; }
+
+.ea-bg-blue-grey-500,
+.ea-bg-hover-blue-grey-500:hover {
+  background-color: #607D8B !important;
+  color: #FFFFFF; }
+
+.ea-text-blue-grey-500,
+.ea-text-hover-blue-grey-500:hover {
+  color: #607D8B !important; }
+
+.ea-border-blue-grey-500,
+.ea-border-hover-blue-grey-500:hover {
+  border-color: #607D8B !important; }
+
+.ea-bg-blue-grey-600,
+.ea-bg-hover-blue-grey-600:hover {
+  background-color: #546E7A !important;
+  color: #FFFFFF; }
+
+.ea-text-blue-grey-600,
+.ea-text-hover-blue-grey-600:hover {
+  color: #546E7A !important; }
+
+.ea-border-blue-grey-600,
+.ea-border-hover-blue-grey-600:hover {
+  border-color: #546E7A !important; }
+
+.ea-bg-blue-grey-700,
+.ea-bg-hover-blue-grey-700:hover {
+  background-color: #455A64 !important;
+  color: #FFFFFF; }
+
+.ea-text-blue-grey-700,
+.ea-text-hover-blue-grey-700:hover {
+  color: #455A64 !important; }
+
+.ea-border-blue-grey-700,
+.ea-border-hover-blue-grey-700:hover {
+  border-color: #455A64 !important; }
+
+.ea-bg-blue-grey-800,
+.ea-bg-hover-blue-grey-800:hover {
+  background-color: #37474F !important;
+  color: #FFFFFF; }
+
+.ea-text-blue-grey-800,
+.ea-text-hover-blue-grey-800:hover {
+  color: #37474F !important; }
+
+.ea-border-blue-grey-800,
+.ea-border-hover-blue-grey-800:hover {
+  border-color: #37474F !important; }
+
+.ea-bg-blue-grey-900,
+.ea-bg-hover-blue-grey-900:hover {
+  background-color: #263238 !important;
+  color: #FFFFFF; }
+
+.ea-text-blue-grey-900,
+.ea-text-hover-blue-grey-900:hover {
+  color: #263238 !important; }
+
+.ea-border-blue-grey-900,
+.ea-border-hover-blue-grey-900:hover {
+  border-color: #263238 !important; }
+
+.ea-bg-black,
+.ea-bg-hover-black:hover {
+  background-color: #000000 !important;
+  color: #FFFFFF; }
+
+.ea-text-black,
+.ea-text-hover-black:hover {
+  color: #000000 !important; }
+
+.ea-border-black,
+.ea-border-hover-black:hover {
+  border-color: #000000 !important; }
+
+.ea-bg-white,
+.ea-bg-hover-white:hover {
+  background-color: #FFFFFF !important;
+  color: #000000; }
+
+.ea-text-white,
+.ea-text-hover-white:hover {
+  color: #FFFFFF !important; }
+
+.ea-border-white,
+.ea-border-hover-white:hover {
+  border-color: #FFFFFF !important; }
+
+/*# sourceMappingURL=ea-color.css.map */
