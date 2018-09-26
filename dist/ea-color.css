@@ -8,7 +8,9 @@
   color: #F44336 !important; }
 
 .ea-border-red,
-.ea-border-hover-red:hover {
+.ea-b-red,
+.ea-border-hover-red:hover,
+.ea-b-hover-red:hover {
   border-color: #F44336 !important; }
 
 .ea-bg-pink,
@@ -21,7 +23,9 @@
   color: #E91E63 !important; }
 
 .ea-border-pink,
-.ea-border-hover-pink:hover {
+.ea-b-pink,
+.ea-border-hover-pink:hover,
+.ea-b-hover-pink:hover {
   border-color: #E91E63 !important; }
 
 .ea-bg-purple,
@@ -34,7 +38,9 @@
   color: #9C27B0 !important; }
 
 .ea-border-purple,
-.ea-border-hover-purple:hover {
+.ea-b-purple,
+.ea-border-hover-purple:hover,
+.ea-b-hover-purple:hover {
   border-color: #9C27B0 !important; }
 
 .ea-bg-deep-purple,
@@ -47,7 +53,9 @@
   color: #673AB7 !important; }
 
 .ea-border-deep-purple,
-.ea-border-hover-deep-purple:hover {
+.ea-b-deep-purple,
+.ea-border-hover-deep-purple:hover,
+.ea-b-hover-deep-purple:hover {
   border-color: #673AB7 !important; }
 
 .ea-bg-indigo,
@@ -60,7 +68,9 @@
   color: #3F51B5 !important; }
 
 .ea-border-indigo,
-.ea-border-hover-indigo:hover {
+.ea-b-indigo,
+.ea-border-hover-indigo:hover,
+.ea-b-hover-indigo:hover {
   border-color: #3F51B5 !important; }
 
 .ea-bg-blue,
@@ -73,7 +83,9 @@
   color: #2196F3 !important; }
 
 .ea-border-blue,
-.ea-border-hover-blue:hover {
+.ea-b-blue,
+.ea-border-hover-blue:hover,
+.ea-b-hover-blue:hover {
   border-color: #2196F3 !important; }
 
 .ea-bg-light-blue,
@@ -86,7 +98,9 @@
   color: #03A9F4 !important; }
 
 .ea-border-light-blue,
-.ea-border-hover-light-blue:hover {
+.ea-b-light-blue,
+.ea-border-hover-light-blue:hover,
+.ea-b-hover-light-blue:hover {
   border-color: #03A9F4 !important; }
 
 .ea-bg-cyan,
@@ -99,7 +113,9 @@
   color: #00BCD4 !important; }
 
 .ea-border-cyan,
-.ea-border-hover-cyan:hover {
+.ea-b-cyan,
+.ea-border-hover-cyan:hover,
+.ea-b-hover-cyan:hover {
   border-color: #00BCD4 !important; }
 
 .ea-bg-teal,
@@ -112,7 +128,9 @@
   color: #009688 !important; }
 
 .ea-border-teal,
-.ea-border-hover-teal:hover {
+.ea-b-teal,
+.ea-border-hover-teal:hover,
+.ea-b-hover-teal:hover {
   border-color: #009688 !important; }
 
 .ea-bg-green,
@@ -125,7 +143,9 @@
   color: #4CAF50 !important; }
 
 .ea-border-green,
-.ea-border-hover-green:hover {
+.ea-b-green,
+.ea-border-hover-green:hover,
+.ea-b-hover-green:hover {
   border-color: #4CAF50 !important; }
 
 .ea-bg-light-green,
@@ -138,7 +158,9 @@
   color: #8BC34A !important; }
 
 .ea-border-light-green,
-.ea-border-hover-light-green:hover {
+.ea-b-light-green,
+.ea-border-hover-light-green:hover,
+.ea-b-hover-light-green:hover {
   border-color: #8BC34A !important; }
 
 .ea-bg-lime,
@@ -151,7 +173,9 @@
   color: #CDDC39 !important; }
 
 .ea-border-lime,
-.ea-border-hover-lime:hover {
+.ea-b-lime,
+.ea-border-hover-lime:hover,
+.ea-b-hover-lime:hover {
   border-color: #CDDC39 !important; }
 
 .ea-bg-yellow,
@@ -164,7 +188,9 @@
   color: #FFEB3B !important; }
 
 .ea-border-yellow,
-.ea-border-hover-yellow:hover {
+.ea-b-yellow,
+.ea-border-hover-yellow:hover,
+.ea-b-hover-yellow:hover {
   border-color: #FFEB3B !important; }
 
 .ea-bg-amber,
@@ -177,7 +203,9 @@
   color: #FFC107 !important; }
 
 .ea-border-amber,
-.ea-border-hover-amber:hover {
+.ea-b-amber,
+.ea-border-hover-amber:hover,
+.ea-b-hover-amber:hover {
   border-color: #FFC107 !important; }
 
 .ea-bg-orange,
@@ -190,7 +218,9 @@
   color: #FF9800 !important; }
 
 .ea-border-orange,
-.ea-border-hover-orange:hover {
+.ea-b-orange,
+.ea-border-hover-orange:hover,
+.ea-b-hover-orange:hover {
   border-color: #FF9800 !important; }
 
 .ea-bg-deep-orange,
@@ -203,7 +233,9 @@
   color: #FF5722 !important; }
 
 .ea-border-deep-orange,
-.ea-border-hover-deep-orange:hover {
+.ea-b-deep-orange,
+.ea-border-hover-deep-orange:hover,
+.ea-b-hover-deep-orange:hover {
   border-color: #FF5722 !important; }
 
 .ea-bg-brown,
@@ -216,7 +248,9 @@
   color: #795548 !important; }
 
 .ea-border-brown,
-.ea-border-hover-brown:hover {
+.ea-b-brown,
+.ea-border-hover-brown:hover,
+.ea-b-hover-brown:hover {
   border-color: #795548 !important; }
 
 .ea-bg-grey,
@@ -229,7 +263,9 @@
   color: #9E9E9E !important; }
 
 .ea-border-grey,
-.ea-border-hover-grey:hover {
+.ea-b-grey,
+.ea-border-hover-grey:hover,
+.ea-b-hover-grey:hover {
   border-color: #9E9E9E !important; }
 
 .ea-bg-grey-50,
@@ -242,7 +278,9 @@
   color: #FAFAFA !important; }
 
 .ea-border-grey-50,
-.ea-border-hover-grey-50:hover {
+.ea-b-grey-50,
+.ea-border-hover-grey-50:hover,
+.ea-b-hover-grey-50:hover {
   border-color: #FAFAFA !important; }
 
 .ea-bg-grey-100,
@@ -255,7 +293,9 @@
   color: #F5F5F5 !important; }
 
 .ea-border-grey-100,
-.ea-border-hover-grey-100:hover {
+.ea-b-grey-100,
+.ea-border-hover-grey-100:hover,
+.ea-b-hover-grey-100:hover {
   border-color: #F5F5F5 !important; }
 
 .ea-bg-grey-200,
@@ -268,7 +308,9 @@
   color: #EEEEEE !important; }
 
 .ea-border-grey-200,
-.ea-border-hover-grey-200:hover {
+.ea-b-grey-200,
+.ea-border-hover-grey-200:hover,
+.ea-b-hover-grey-200:hover {
   border-color: #EEEEEE !important; }
 
 .ea-bg-grey-300,
@@ -281,7 +323,9 @@
   color: #E0E0E0 !important; }
 
 .ea-border-grey-300,
-.ea-border-hover-grey-300:hover {
+.ea-b-grey-300,
+.ea-border-hover-grey-300:hover,
+.ea-b-hover-grey-300:hover {
   border-color: #E0E0E0 !important; }
 
 .ea-bg-grey-400,
@@ -294,7 +338,9 @@
   color: #BDBDBD !important; }
 
 .ea-border-grey-400,
-.ea-border-hover-grey-400:hover {
+.ea-b-grey-400,
+.ea-border-hover-grey-400:hover,
+.ea-b-hover-grey-400:hover {
   border-color: #BDBDBD !important; }
 
 .ea-bg-grey-500,
@@ -307,7 +353,9 @@
   color: #9E9E9E !important; }
 
 .ea-border-grey-500,
-.ea-border-hover-grey-500:hover {
+.ea-b-grey-500,
+.ea-border-hover-grey-500:hover,
+.ea-b-hover-grey-500:hover {
   border-color: #9E9E9E !important; }
 
 .ea-bg-grey-600,
@@ -320,7 +368,9 @@
   color: #757575 !important; }
 
 .ea-border-grey-600,
-.ea-border-hover-grey-600:hover {
+.ea-b-grey-600,
+.ea-border-hover-grey-600:hover,
+.ea-b-hover-grey-600:hover {
   border-color: #757575 !important; }
 
 .ea-bg-grey-700,
@@ -333,7 +383,9 @@
   color: #616161 !important; }
 
 .ea-border-grey-700,
-.ea-border-hover-grey-700:hover {
+.ea-b-grey-700,
+.ea-border-hover-grey-700:hover,
+.ea-b-hover-grey-700:hover {
   border-color: #616161 !important; }
 
 .ea-bg-grey-800,
@@ -346,7 +398,9 @@
   color: #424242 !important; }
 
 .ea-border-grey-800,
-.ea-border-hover-grey-800:hover {
+.ea-b-grey-800,
+.ea-border-hover-grey-800:hover,
+.ea-b-hover-grey-800:hover {
   border-color: #424242 !important; }
 
 .ea-bg-grey-900,
@@ -359,7 +413,9 @@
   color: #212121 !important; }
 
 .ea-border-grey-900,
-.ea-border-hover-grey-900:hover {
+.ea-b-grey-900,
+.ea-border-hover-grey-900:hover,
+.ea-b-hover-grey-900:hover {
   border-color: #212121 !important; }
 
 .ea-bg-blue-grey,
@@ -372,7 +428,9 @@
   color: #607D8B !important; }
 
 .ea-border-blue-grey,
-.ea-border-hover-blue-grey:hover {
+.ea-b-blue-grey,
+.ea-border-hover-blue-grey:hover,
+.ea-b-hover-blue-grey:hover {
   border-color: #607D8B !important; }
 
 .ea-bg-blue-grey-50,
@@ -385,7 +443,9 @@
   color: #ECEFF1 !important; }
 
 .ea-border-blue-grey-50,
-.ea-border-hover-blue-grey-50:hover {
+.ea-b-blue-grey-50,
+.ea-border-hover-blue-grey-50:hover,
+.ea-b-hover-blue-grey-50:hover {
   border-color: #ECEFF1 !important; }
 
 .ea-bg-blue-grey-100,
@@ -398,7 +458,9 @@
   color: #CFD8DC !important; }
 
 .ea-border-blue-grey-100,
-.ea-border-hover-blue-grey-100:hover {
+.ea-b-blue-grey-100,
+.ea-border-hover-blue-grey-100:hover,
+.ea-b-hover-blue-grey-100:hover {
   border-color: #CFD8DC !important; }
 
 .ea-bg-blue-grey-200,
@@ -411,7 +473,9 @@
   color: #B0BEC5 !important; }
 
 .ea-border-blue-grey-200,
-.ea-border-hover-blue-grey-200:hover {
+.ea-b-blue-grey-200,
+.ea-border-hover-blue-grey-200:hover,
+.ea-b-hover-blue-grey-200:hover {
   border-color: #B0BEC5 !important; }
 
 .ea-bg-blue-grey-300,
@@ -424,7 +488,9 @@
   color: #90A4AE !important; }
 
 .ea-border-blue-grey-300,
-.ea-border-hover-blue-grey-300:hover {
+.ea-b-blue-grey-300,
+.ea-border-hover-blue-grey-300:hover,
+.ea-b-hover-blue-grey-300:hover {
   border-color: #90A4AE !important; }
 
 .ea-bg-blue-grey-400,
@@ -437,7 +503,9 @@
   color: #78909C !important; }
 
 .ea-border-blue-grey-400,
-.ea-border-hover-blue-grey-400:hover {
+.ea-b-blue-grey-400,
+.ea-border-hover-blue-grey-400:hover,
+.ea-b-hover-blue-grey-400:hover {
   border-color: #78909C !important; }
 
 .ea-bg-blue-grey-500,
@@ -450,7 +518,9 @@
   color: #607D8B !important; }
 
 .ea-border-blue-grey-500,
-.ea-border-hover-blue-grey-500:hover {
+.ea-b-blue-grey-500,
+.ea-border-hover-blue-grey-500:hover,
+.ea-b-hover-blue-grey-500:hover {
   border-color: #607D8B !important; }
 
 .ea-bg-blue-grey-600,
@@ -463,7 +533,9 @@
   color: #546E7A !important; }
 
 .ea-border-blue-grey-600,
-.ea-border-hover-blue-grey-600:hover {
+.ea-b-blue-grey-600,
+.ea-border-hover-blue-grey-600:hover,
+.ea-b-hover-blue-grey-600:hover {
   border-color: #546E7A !important; }
 
 .ea-bg-blue-grey-700,
@@ -476,7 +548,9 @@
   color: #455A64 !important; }
 
 .ea-border-blue-grey-700,
-.ea-border-hover-blue-grey-700:hover {
+.ea-b-blue-grey-700,
+.ea-border-hover-blue-grey-700:hover,
+.ea-b-hover-blue-grey-700:hover {
   border-color: #455A64 !important; }
 
 .ea-bg-blue-grey-800,
@@ -489,7 +563,9 @@
   color: #37474F !important; }
 
 .ea-border-blue-grey-800,
-.ea-border-hover-blue-grey-800:hover {
+.ea-b-blue-grey-800,
+.ea-border-hover-blue-grey-800:hover,
+.ea-b-hover-blue-grey-800:hover {
   border-color: #37474F !important; }
 
 .ea-bg-blue-grey-900,
@@ -502,7 +578,9 @@
   color: #263238 !important; }
 
 .ea-border-blue-grey-900,
-.ea-border-hover-blue-grey-900:hover {
+.ea-b-blue-grey-900,
+.ea-border-hover-blue-grey-900:hover,
+.ea-b-hover-blue-grey-900:hover {
   border-color: #263238 !important; }
 
 .ea-bg-black,
@@ -515,7 +593,9 @@
   color: #000000 !important; }
 
 .ea-border-black,
-.ea-border-hover-black:hover {
+.ea-b-black,
+.ea-border-hover-black:hover,
+.ea-b-hover-black:hover {
   border-color: #000000 !important; }
 
 .ea-bg-white,
@@ -528,7 +608,9 @@
   color: #FFFFFF !important; }
 
 .ea-border-white,
-.ea-border-hover-white:hover {
+.ea-b-white,
+.ea-border-hover-white:hover,
+.ea-b-hover-white:hover {
   border-color: #FFFFFF !important; }
 
 /*# sourceMappingURL=ea-color.css.map */
