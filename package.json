@@ -1,6 +1,6 @@
 {
   "name": "ea-color.css",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Perfect CSS color library",
   "main": "ea-color.css",
   "dependencies": {
